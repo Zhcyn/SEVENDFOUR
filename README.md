@@ -1,0 +1,2 @@
+# SEVENDFOUR
+An app to help plan your own fitness plan and an app to help users calculate their own fitness results. Users only need to add their own weekly practice plan to be able to use our app. The current application is still under development, and the continuity between the adding process and the interface will be improved in the later period. If you encounter problems during the test, please contact me
